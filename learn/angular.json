@@ -28,7 +28,7 @@
               "src/assets"
             ],
             "styles": [
-              "../node_modules/bootstrap/dist/css/bootstrap" ,
+              "../node_modules/bootstrap/dist/css/bootstrap",
               "src/styles.css"
             ],
             "scripts": [
@@ -128,5 +128,8 @@
       }
     }
   },
-  "defaultProject": "learn"
+  "defaultProject": "learn",
+  "cli": {
+    "analytics": false
+  }
 }
